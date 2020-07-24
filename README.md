@@ -1,8 +1,9 @@
-该repo用来记录刷题，
-normal分支下面放一些常规刷题
-在其它不同分支会有专题刷题，
-例如：栈，堆，贪心，动态规划等等
+该repo用来记录刷题，master分支下面放一些常规刷题 在其它不同分支会有专题刷题，例如：Stack,Head,Greedy,Dynamic programming etc.
 TODO
-- [ ] 栈
-- [ ] 堆
-- [ ] 贪心算法
+- [ ] Stack
+- [ ] Greedy
+- [ ] Greedy
+- [ ]  DP
+ 
+ 
+ 
