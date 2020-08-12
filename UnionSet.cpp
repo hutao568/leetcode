@@ -13,6 +13,7 @@ class UnionSet(){
   }
 
   int find(int index){
+    // 路径压缩
     return root[index]==index?index:root[index]=find(root[index]);
   }
 
